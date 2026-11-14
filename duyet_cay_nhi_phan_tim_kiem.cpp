@@ -45,7 +45,6 @@ void inOrder(Node* a) {
     inOrder(a-> nLeft);
     cout << a-> data << " ";
     inOrder(a-> nRight);
-    
 }
 
 int main() {
