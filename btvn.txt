@@ -1,1 +1,3 @@
-commit 1 file code cpp bat ki roi tao pull request vao nhanh thangnq
+checkout 1 branch ten la phongbt
+commit 1 file code cpp bat ki
+sau do tao pull request vao nhanh thangnq
